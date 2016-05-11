@@ -1,0 +1,10 @@
+ @media screen and (min-width:960px){
+            body {
+                background-color: #5ef48c;
+            }
+            .photo {
+                width: 960px; 
+/*                與照片的固定寬度一樣*/
+                margin: auto;
+                            }
+                    }

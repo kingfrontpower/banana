@@ -1,0 +1,10 @@
+@media screen and (max-width:480px){
+            body {
+                background-color: #f81d71;
+            }
+            .photo {
+                width: 100%;
+/*                480像素以下用百分比*/
+            }
+            
+            }
